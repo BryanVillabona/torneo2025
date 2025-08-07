@@ -1,0 +1,482 @@
+[
+  {
+    "_id": {
+      "$oid": "19a094f37ff1eb4a8d0b068b"
+    },
+    "atleta_id": {
+      "$oid": "e1ceeba1fbeb59dc15105649"
+    },
+    "evento": "Remo - Semifinal",
+    "fecha": {
+      "$date": "2025-08-14T00:00:00Z"
+    },
+    "marca": 31.05,
+    "unidad": "puntos",
+    "posicion": 10,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "b87e6b16de5650773c583199"
+    },
+    "atleta_id": {
+      "$oid": "701389977c3cbf1d2b447c09"
+    },
+    "evento": "Gimnasia - Round 2",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 61.48,
+    "unidad": "puntos",
+    "posicion": 15,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "f3564067ee6b76848ded39c5"
+    },
+    "atleta_id": {
+      "$oid": "60f1877bf357b03cad308ec1"
+    },
+    "evento": "Fútbol - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 90.86,
+    "unidad": "puntos",
+    "posicion": 19,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "5081153770bf7a815514a940"
+    },
+    "atleta_id": {
+      "$oid": "82359aad2d6307ba5dc6c9ef"
+    },
+    "evento": "Remo - Round 2",
+    "fecha": {
+      "$date": "2025-08-15T00:00:00Z"
+    },
+    "marca": 83.41,
+    "unidad": "puntos",
+    "posicion": 1,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "7f655f042c6db21b6bdde509"
+    },
+    "atleta_id": {
+      "$oid": "d1fdde8edb40759cdd8cdf9a"
+    },
+    "evento": "Remo - Final",
+    "fecha": {
+      "$date": "2025-08-13T00:00:00Z"
+    },
+    "marca": 98.04,
+    "unidad": "puntos",
+    "posicion": 12,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "f3c659d860a037c49c9f1dac"
+    },
+    "atleta_id": {
+      "$oid": "130fb0c8eee06fe000309b09"
+    },
+    "evento": "Boxeo - Semifinal",
+    "fecha": {
+      "$date": "2025-08-10T00:00:00Z"
+    },
+    "marca": 109.82,
+    "unidad": "puntos",
+    "posicion": 16,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "4371cb5d17eed8360c168844"
+    },
+    "atleta_id": {
+      "$oid": "988a32706cbecfe17e970c87"
+    },
+    "evento": "Taekwondo - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 43.95,
+    "unidad": "puntos",
+    "posicion": 8,
+    "record": true
+  },
+  {
+    "_id": {
+      "$oid": "16e8b8b0dc9b187ed21332a2"
+    },
+    "atleta_id": {
+      "$oid": "1be3c6e29e9c3af5fece1184"
+    },
+    "evento": "Remo - Round 1",
+    "fecha": {
+      "$date": "2025-08-10T00:00:00Z"
+    },
+    "marca": 66.96,
+    "unidad": "puntos",
+    "posicion": 15,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "96d085ace4f63696cf8bf4f9"
+    },
+    "atleta_id": {
+      "$oid": "e8af0f4066043b13d54f9bbd"
+    },
+    "evento": "Baloncesto - Final",
+    "fecha": {
+      "$date": "2025-08-17T00:00:00Z"
+    },
+    "marca": 115.27,
+    "unidad": "puntos",
+    "posicion": 9,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "f61bf47ce93b1a1355e8bba2"
+    },
+    "atleta_id": {
+      "$oid": "e4097ebd7bba74553b5ace5a"
+    },
+    "evento": "Natación - Semifinal",
+    "fecha": {
+      "$date": "2025-08-19T00:00:00Z"
+    },
+    "marca": 27.35,
+    "unidad": "puntos",
+    "posicion": 13,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "160970305feaf5e86e3c422d"
+    },
+    "atleta_id": {
+      "$oid": "b3f5f1ee32dc7104250adeb2"
+    },
+    "evento": "Voleibol - Round 1",
+    "fecha": {
+      "$date": "2025-08-12T00:00:00Z"
+    },
+    "marca": 111.85,
+    "unidad": "puntos",
+    "posicion": 5,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "c2a50a2047f6c05b8a3314de"
+    },
+    "atleta_id": {
+      "$oid": "f5e53f7c0a1a638374132ccc"
+    },
+    "evento": "Vela - Final",
+    "fecha": {
+      "$date": "2025-08-18T00:00:00Z"
+    },
+    "marca": 71.52,
+    "unidad": "puntos",
+    "posicion": 19,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "c689402d5ee0c6ac3b6cb78b"
+    },
+    "atleta_id": {
+      "$oid": "019ae54026692a28a5058167"
+    },
+    "evento": "Baloncesto - Final",
+    "fecha": {
+      "$date": "2025-08-19T00:00:00Z"
+    },
+    "marca": 112.92,
+    "unidad": "puntos",
+    "posicion": 15,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "b35171fe80cb5a2250f77593"
+    },
+    "atleta_id": {
+      "$oid": "c4e87e06f34137f455e4802e"
+    },
+    "evento": "Remo - Semifinal",
+    "fecha": {
+      "$date": "2025-08-17T00:00:00Z"
+    },
+    "marca": 94.66,
+    "unidad": "puntos",
+    "posicion": 4,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "39e4a5596c167a597cf3fb32"
+    },
+    "atleta_id": {
+      "$oid": "c3e5898c50872464c3bd273a"
+    },
+    "evento": "Natación - Round 2",
+    "fecha": {
+      "$date": "2025-08-18T00:00:00Z"
+    },
+    "marca": 86.57,
+    "unidad": "puntos",
+    "posicion": 5,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "1a47e0ac6ea0c0e097ef085c"
+    },
+    "atleta_id": {
+      "$oid": "048d7ddd50808c4a85f16275"
+    },
+    "evento": "Boxeo - Round 2",
+    "fecha": {
+      "$date": "2025-08-10T00:00:00Z"
+    },
+    "marca": 80.87,
+    "unidad": "puntos",
+    "posicion": 20,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "c3d26eda19b197f44c99df54"
+    },
+    "atleta_id": {
+      "$oid": "51447017b48d1c8b1444cbc7"
+    },
+    "evento": "Judo - Semifinal",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 45.1,
+    "unidad": "puntos",
+    "posicion": 11,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "147ce2940ba99b8124ca5317"
+    },
+    "atleta_id": {
+      "$oid": "5cd29b1e396027625abe5612"
+    },
+    "evento": "Remo - Semifinal",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 21.33,
+    "unidad": "puntos",
+    "posicion": 7,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "81bd3beab41e52afc5e7b236"
+    },
+    "atleta_id": {
+      "$oid": "218cf146a0e91fc6567fbea0"
+    },
+    "evento": "Taekwondo - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-17T00:00:00Z"
+    },
+    "marca": 73.72,
+    "unidad": "puntos",
+    "posicion": 12,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "72f7f888b2b2c56192b62c8e"
+    },
+    "atleta_id": {
+      "$oid": "9076629416bd972dd1b8b866"
+    },
+    "evento": "Ciclismo - Final",
+    "fecha": {
+      "$date": "2025-08-11T00:00:00Z"
+    },
+    "marca": 10.06,
+    "unidad": "segundos",
+    "posicion": 4,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "531c5d482dea5b081f0fb01e"
+    },
+    "atleta_id": {
+      "$oid": "58f7028cabc6fb09ed68cb0a"
+    },
+    "evento": "Fútbol - Round 2",
+    "fecha": {
+      "$date": "2025-08-20T00:00:00Z"
+    },
+    "marca": 86.9,
+    "unidad": "puntos",
+    "posicion": 13,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "6c7b4cca2b4c2e0834b6fdb1"
+    },
+    "atleta_id": {
+      "$oid": "0534e0e4b4eef3517a3bf905"
+    },
+    "evento": "Vela - Semifinal",
+    "fecha": {
+      "$date": "2025-08-10T00:00:00Z"
+    },
+    "marca": 92.75,
+    "unidad": "puntos",
+    "posicion": 16,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "866010672f9921ad2cc6cbb1"
+    },
+    "atleta_id": {
+      "$oid": "683477e6ccbb5289c5f84526"
+    },
+    "evento": "Halterofilia - Final",
+    "fecha": {
+      "$date": "2025-08-10T00:00:00Z"
+    },
+    "marca": 55.61,
+    "unidad": "puntos",
+    "posicion": 20,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "c21084d49ee5976628c83145"
+    },
+    "atleta_id": {
+      "$oid": "b35954d619c01df26ed316f4"
+    },
+    "evento": "Atletismo - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-12T00:00:00Z"
+    },
+    "marca": 10.61,
+    "unidad": "segundos",
+    "posicion": 20,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "88767dc8c7c7621a23113a2f"
+    },
+    "atleta_id": {
+      "$oid": "291f5d62d81a1353c7cec0e1"
+    },
+    "evento": "Halterofilia - Round 1",
+    "fecha": {
+      "$date": "2025-08-16T00:00:00Z"
+    },
+    "marca": 111.63,
+    "unidad": "puntos",
+    "posicion": 3,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "44356e380bbd707e6c710e2e"
+    },
+    "atleta_id": {
+      "$oid": "20307fcbe9cbd8c5f64e62f8"
+    },
+    "evento": "Remo - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-18T00:00:00Z"
+    },
+    "marca": 55.89,
+    "unidad": "puntos",
+    "posicion": 8,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "3b5e72e8ccc2d8eb8024ed1d"
+    },
+    "atleta_id": {
+      "$oid": "e8bad49c7496716d5c4da14f"
+    },
+    "evento": "Boxeo - Round 2",
+    "fecha": {
+      "$date": "2025-08-20T00:00:00Z"
+    },
+    "marca": 77.92,
+    "unidad": "puntos",
+    "posicion": 8,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "ab6a03cc6bc524f716ad1e0b"
+    },
+    "atleta_id": {
+      "$oid": "bee24842a25ab36f7b9419de"
+    },
+    "evento": "Natación - Round 2",
+    "fecha": {
+      "$date": "2025-08-18T00:00:00Z"
+    },
+    "marca": 118.8,
+    "unidad": "puntos",
+    "posicion": 8,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "3445607d647668fa4194640a"
+    },
+    "atleta_id": {
+      "$oid": "39f431837f9eee0028ed4f8b"
+    },
+    "evento": "Fútbol - Final",
+    "fecha": {
+      "$date": "2025-08-12T00:00:00Z"
+    },
+    "marca": 49.62,
+    "unidad": "puntos",
+    "posicion": 14,
+    "record": false
+  },
+  {
+    "_id": {
+      "$oid": "093dd58247ea09e72600e8fc"
+    },
+    "atleta_id": {
+      "$oid": "85194bc30e1229e2a2a18570"
+    },
+    "evento": "Judo - Clasificatoria",
+    "fecha": {
+      "$date": "2025-08-14T00:00:00Z"
+    },
+    "marca": 51.62,
+    "unidad": "puntos",
+    "posicion": 8,
+    "record": false
+  }
+]

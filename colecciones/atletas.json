@@ -1,0 +1,542 @@
+[
+  {
+    "_id": {
+      "$oid": "e1ceeba1fbeb59dc15105649"
+    },
+    "nombre": "Atleta 1",
+    "edad": 21,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "+60kg",
+    "peso_kg": 75.4,
+    "altura_cm": 170,
+    "registro_federado": false
+  },
+  {
+    "_id": {
+      "$oid": "701389977c3cbf1d2b447c09"
+    },
+    "nombre": "Atleta 2",
+    "edad": 27,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "990e7291084598851ab4fedb"
+    },
+    "equipo_id": {
+      "$oid": "13be1396d8f63bf56a5c487d"
+    },
+    "especialidad": "100m",
+    "peso_kg": 59.4,
+    "altura_cm": 199,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "60f1877bf357b03cad308ec1"
+    },
+    "nombre": "Atleta 3",
+    "edad": 34,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "equipo_id": {
+      "$oid": "1318c2b67b02311cd0c5663a"
+    },
+    "especialidad": "Ruta",
+    "peso_kg": 88.8,
+    "altura_cm": 169,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "82359aad2d6307ba5dc6c9ef"
+    },
+    "nombre": "Atleta 4",
+    "edad": 31,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "100m",
+    "peso_kg": 65.1,
+    "altura_cm": 177,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "d1fdde8edb40759cdd8cdf9a"
+    },
+    "nombre": "Atleta 5",
+    "edad": 29,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "Doble",
+    "peso_kg": 75.2,
+    "altura_cm": 173,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "130fb0c8eee06fe000309b09"
+    },
+    "nombre": "Atleta 6",
+    "edad": 18,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "equipo_id": {
+      "$oid": "f3cdb1e0374b52693adbc20f"
+    },
+    "especialidad": "Doble",
+    "peso_kg": 76.7,
+    "altura_cm": 175,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "988a32706cbecfe17e970c87"
+    },
+    "nombre": "Atleta 7",
+    "edad": 21,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "2df23719d2369e62bc140c90"
+    },
+    "equipo_id": {
+      "$oid": "2e207d8aba9566ede2e5cd5b"
+    },
+    "especialidad": "Mariposa 200m",
+    "peso_kg": 58.7,
+    "altura_cm": 182,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "1be3c6e29e9c3af5fece1184"
+    },
+    "nombre": "Atleta 8",
+    "edad": 29,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "200m",
+    "peso_kg": 65.9,
+    "altura_cm": 197,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "e8af0f4066043b13d54f9bbd"
+    },
+    "nombre": "Atleta 9",
+    "edad": 23,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "c62b85952d4a936e0b248806"
+    },
+    "equipo_id": {
+      "$oid": "b94fcd5ffc14836a03ef7137"
+    },
+    "especialidad": "Ruta",
+    "peso_kg": 86.9,
+    "altura_cm": 194,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "e4097ebd7bba74553b5ace5a"
+    },
+    "nombre": "Atleta 10",
+    "edad": 29,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "equipo_id": {
+      "$oid": "f63a207dd0188d0cec21b65c"
+    },
+    "especialidad": "-60kg",
+    "peso_kg": 71.5,
+    "altura_cm": 180,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "b3f5f1ee32dc7104250adeb2"
+    },
+    "nombre": "Atleta 11",
+    "edad": 33,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "c73736613dfe8b6adc18412c"
+    },
+    "equipo_id": {
+      "$oid": "0e8067341d770d4d7c62be10"
+    },
+    "especialidad": "-60kg",
+    "peso_kg": 62.7,
+    "altura_cm": 181,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "f5e53f7c0a1a638374132ccc"
+    },
+    "nombre": "Atleta 12",
+    "edad": 24,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "02ca9d99aa1b47267cf13f30"
+    },
+    "equipo_id": {
+      "$oid": "fd748b6275ea2f6b49fe1114"
+    },
+    "especialidad": "100m",
+    "peso_kg": 58.0,
+    "altura_cm": 194,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "019ae54026692a28a5058167"
+    },
+    "nombre": "Atleta 13",
+    "edad": 26,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "c62b85952d4a936e0b248806"
+    },
+    "equipo_id": {
+      "$oid": "b94fcd5ffc14836a03ef7137"
+    },
+    "especialidad": "Mariposa 200m",
+    "peso_kg": 67.3,
+    "altura_cm": 173,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "c4e87e06f34137f455e4802e"
+    },
+    "nombre": "Atleta 14",
+    "edad": 23,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "+60kg",
+    "peso_kg": 64.5,
+    "altura_cm": 171,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "c3e5898c50872464c3bd273a"
+    },
+    "nombre": "Atleta 15",
+    "edad": 35,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "equipo_id": {
+      "$oid": "f63a207dd0188d0cec21b65c"
+    },
+    "especialidad": "Ruta",
+    "peso_kg": 86.3,
+    "altura_cm": 180,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "048d7ddd50808c4a85f16275"
+    },
+    "nombre": "Atleta 16",
+    "edad": 33,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "equipo_id": {
+      "$oid": "f3cdb1e0374b52693adbc20f"
+    },
+    "especialidad": "Ruta",
+    "peso_kg": 82.5,
+    "altura_cm": 185,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "51447017b48d1c8b1444cbc7"
+    },
+    "nombre": "Atleta 17",
+    "edad": 29,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "7fae9e7189070625f4834299"
+    },
+    "equipo_id": {
+      "$oid": "a35acd6ce5cb2163d377d727"
+    },
+    "especialidad": "200m",
+    "peso_kg": 87.9,
+    "altura_cm": 196,
+    "registro_federado": false
+  },
+  {
+    "_id": {
+      "$oid": "5cd29b1e396027625abe5612"
+    },
+    "nombre": "Atleta 18",
+    "edad": 24,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "-60kg",
+    "peso_kg": 90.4,
+    "altura_cm": 188,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "218cf146a0e91fc6567fbea0"
+    },
+    "nombre": "Atleta 19",
+    "edad": 19,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "2df23719d2369e62bc140c90"
+    },
+    "equipo_id": {
+      "$oid": "2e207d8aba9566ede2e5cd5b"
+    },
+    "especialidad": "Singles",
+    "peso_kg": 63.9,
+    "altura_cm": 190,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "9076629416bd972dd1b8b866"
+    },
+    "nombre": "Atleta 20",
+    "edad": 17,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "afd1d724f9c0d61dfc2207c7"
+    },
+    "equipo_id": {
+      "$oid": "6c8346eb5df62e980aebd69e"
+    },
+    "especialidad": "Velocidad 100m",
+    "peso_kg": 58.5,
+    "altura_cm": 164,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "58f7028cabc6fb09ed68cb0a"
+    },
+    "nombre": "Atleta 21",
+    "edad": 17,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "equipo_id": {
+      "$oid": "1318c2b67b02311cd0c5663a"
+    },
+    "especialidad": "Mariposa 200m",
+    "peso_kg": 88.0,
+    "altura_cm": 194,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "0534e0e4b4eef3517a3bf905"
+    },
+    "nombre": "Atleta 22",
+    "edad": 30,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "02ca9d99aa1b47267cf13f30"
+    },
+    "equipo_id": {
+      "$oid": "fd748b6275ea2f6b49fe1114"
+    },
+    "especialidad": "+60kg",
+    "peso_kg": 60.2,
+    "altura_cm": 168,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "683477e6ccbb5289c5f84526"
+    },
+    "nombre": "Atleta 23",
+    "edad": 33,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "474fa36f04c23c7de799896d"
+    },
+    "equipo_id": {
+      "$oid": "bf2a4b5aaf2ac6772c8f7fcf"
+    },
+    "especialidad": "+60kg",
+    "peso_kg": 55.4,
+    "altura_cm": 192,
+    "registro_federado": false
+  },
+  {
+    "_id": {
+      "$oid": "b35954d619c01df26ed316f4"
+    },
+    "nombre": "Atleta 24",
+    "edad": 21,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "f1dd9a02dd8613488738a947"
+    },
+    "equipo_id": {
+      "$oid": "862c9828e5946e5b76973d78"
+    },
+    "especialidad": "Singles",
+    "peso_kg": 81.2,
+    "altura_cm": 180,
+    "registro_federado": false
+  },
+  {
+    "_id": {
+      "$oid": "291f5d62d81a1353c7cec0e1"
+    },
+    "nombre": "Atleta 25",
+    "edad": 21,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "474fa36f04c23c7de799896d"
+    },
+    "equipo_id": {
+      "$oid": "bf2a4b5aaf2ac6772c8f7fcf"
+    },
+    "especialidad": "Singles",
+    "peso_kg": 70.4,
+    "altura_cm": 194,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "20307fcbe9cbd8c5f64e62f8"
+    },
+    "nombre": "Atleta 26",
+    "edad": 26,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "equipo_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "especialidad": "Persecución",
+    "peso_kg": 75.0,
+    "altura_cm": 183,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "e8bad49c7496716d5c4da14f"
+    },
+    "nombre": "Atleta 27",
+    "edad": 35,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "equipo_id": {
+      "$oid": "f3cdb1e0374b52693adbc20f"
+    },
+    "especialidad": "Mariposa 200m",
+    "peso_kg": 79.2,
+    "altura_cm": 172,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "bee24842a25ab36f7b9419de"
+    },
+    "nombre": "Atleta 28",
+    "edad": 34,
+    "genero": "F",
+    "pais_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "equipo_id": {
+      "$oid": "f63a207dd0188d0cec21b65c"
+    },
+    "especialidad": "-60kg",
+    "peso_kg": 83.5,
+    "altura_cm": 164,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "39f431837f9eee0028ed4f8b"
+    },
+    "nombre": "Atleta 29",
+    "edad": 20,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "equipo_id": {
+      "$oid": "1318c2b67b02311cd0c5663a"
+    },
+    "especialidad": "Persecución",
+    "peso_kg": 94.7,
+    "altura_cm": 171,
+    "registro_federado": true
+  },
+  {
+    "_id": {
+      "$oid": "85194bc30e1229e2a2a18570"
+    },
+    "nombre": "Atleta 30",
+    "edad": 18,
+    "genero": "M",
+    "pais_id": {
+      "$oid": "7fae9e7189070625f4834299"
+    },
+    "equipo_id": {
+      "$oid": "a35acd6ce5cb2163d377d727"
+    },
+    "especialidad": "Doble",
+    "peso_kg": 74.8,
+    "altura_cm": 190,
+    "registro_federado": true
+  }
+]

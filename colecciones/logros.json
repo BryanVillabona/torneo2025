@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {
+      "$oid": "97e26eb71c9b973cc6c0c072"
+    },
+    "pais_id": {
+      "$oid": "f1dd9a02dd8613488738a947"
+    },
+    "anio": 2020,
+    "tipo": "Récord Nacional",
+    "disciplina": "Vela",
+    "evento": "Vela Evento 1",
+    "descripcion": "Logro de Colombia en Vela (1)"
+  },
+  {
+    "_id": {
+      "$oid": "3f85bfd469cc9e0b4ec2c4df"
+    },
+    "pais_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "anio": 2021,
+    "tipo": "Récord Nacional",
+    "disciplina": "Fútbol",
+    "evento": "Fútbol Evento 2",
+    "descripcion": "Logro de Argentina en Fútbol (2)"
+  },
+  {
+    "_id": {
+      "$oid": "e8f065c74e05db3b0d1abcec"
+    },
+    "pais_id": {
+      "$oid": "afd1d724f9c0d61dfc2207c7"
+    },
+    "anio": 2017,
+    "tipo": "Medalla de Plata",
+    "disciplina": "Tenis",
+    "evento": "Tenis Evento 3",
+    "descripcion": "Logro de Brasil en Tenis (3)"
+  },
+  {
+    "_id": {
+      "$oid": "0e8d41977c1f05db2d51dada"
+    },
+    "pais_id": {
+      "$oid": "7fae9e7189070625f4834299"
+    },
+    "anio": 2017,
+    "tipo": "Medalla de Oro",
+    "disciplina": "Halterofilia",
+    "evento": "Halterofilia Evento 4",
+    "descripcion": "Logro de España en Halterofilia (4)"
+  },
+  {
+    "_id": {
+      "$oid": "8f94eb1a896ea34c187ce70a"
+    },
+    "pais_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "anio": 2022,
+    "tipo": "Récord Nacional",
+    "disciplina": "Baloncesto",
+    "evento": "Baloncesto Evento 5",
+    "descripcion": "Logro de Francia en Baloncesto (5)"
+  },
+  {
+    "_id": {
+      "$oid": "a6575bd8213c86b0757860f3"
+    },
+    "pais_id": {
+      "$oid": "a1a4b542bdc524f01c744d03"
+    },
+    "anio": 2001,
+    "tipo": "Medalla de Bronce",
+    "disciplina": "Voleibol",
+    "evento": "Voleibol Evento 6",
+    "descripcion": "Logro de Estados Unidos en Voleibol (6)"
+  },
+  {
+    "_id": {
+      "$oid": "f996e0192efc0f0fab34254b"
+    },
+    "pais_id": {
+      "$oid": "990e7291084598851ab4fedb"
+    },
+    "anio": 2001,
+    "tipo": "Premio Fair Play",
+    "disciplina": "Judo",
+    "evento": "Judo Evento 7",
+    "descripcion": "Logro de Canadá en Judo (7)"
+  },
+  {
+    "_id": {
+      "$oid": "2d77fcfaacedde5f18d2c57d"
+    },
+    "pais_id": {
+      "$oid": "c62b85952d4a936e0b248806"
+    },
+    "anio": 2006,
+    "tipo": "Medalla de Plata",
+    "disciplina": "Esgrima",
+    "evento": "Esgrima Evento 8",
+    "descripcion": "Logro de Japón en Esgrima (8)"
+  },
+  {
+    "_id": {
+      "$oid": "3b35391b4565808caa30c697"
+    },
+    "pais_id": {
+      "$oid": "3422f12024ef4b6b03c43a1f"
+    },
+    "anio": 2024,
+    "tipo": "Medalla de Plata",
+    "disciplina": "Gimnasia",
+    "evento": "Gimnasia Evento 9",
+    "descripcion": "Logro de Reino Unido en Gimnasia (9)"
+  },
+  {
+    "_id": {
+      "$oid": "edd37cf10111fe1535cfc305"
+    },
+    "pais_id": {
+      "$oid": "02ca9d99aa1b47267cf13f30"
+    },
+    "anio": 2009,
+    "tipo": "Récord Nacional",
+    "disciplina": "Ciclismo",
+    "evento": "Ciclismo Evento 10",
+    "descripcion": "Logro de Alemania en Ciclismo (10)"
+  },
+  {
+    "_id": {
+      "$oid": "507fa2de933c8bb492738e92"
+    },
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "anio": 2010,
+    "tipo": "Récord Nacional",
+    "disciplina": "Voleibol",
+    "evento": "Voleibol Evento 11",
+    "descripcion": "Logro de Italia en Voleibol (11)"
+  },
+  {
+    "_id": {
+      "$oid": "3566573814004b3c01612296"
+    },
+    "pais_id": {
+      "$oid": "2df23719d2369e62bc140c90"
+    },
+    "anio": 2015,
+    "tipo": "Récord Nacional",
+    "disciplina": "Boxeo",
+    "evento": "Boxeo Evento 12",
+    "descripcion": "Logro de México en Boxeo (12)"
+  },
+  {
+    "_id": {
+      "$oid": "b02e6395e7778a7486dd1d30"
+    },
+    "pais_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "anio": 2023,
+    "tipo": "Medalla de Bronce",
+    "disciplina": "Voleibol",
+    "evento": "Voleibol Evento 13",
+    "descripcion": "Logro de Sudáfrica en Voleibol (13)"
+  },
+  {
+    "_id": {
+      "$oid": "f5de89f647585fdcf7b7d4d8"
+    },
+    "pais_id": {
+      "$oid": "474fa36f04c23c7de799896d"
+    },
+    "anio": 2007,
+    "tipo": "Récord Nacional",
+    "disciplina": "Boxeo",
+    "evento": "Boxeo Evento 14",
+    "descripcion": "Logro de Australia en Boxeo (14)"
+  },
+  {
+    "_id": {
+      "$oid": "0250c0e14481463758649dba"
+    },
+    "pais_id": {
+      "$oid": "c73736613dfe8b6adc18412c"
+    },
+    "anio": 2002,
+    "tipo": "Medalla de Bronce",
+    "disciplina": "Taekwondo",
+    "evento": "Taekwondo Evento 15",
+    "descripcion": "Logro de China en Taekwondo (15)"
+  }
+]

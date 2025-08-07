@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "862c9828e5946e5b76973d78"
+    },
+    "nombre": "Equipo Atletismo 1",
+    "disciplina_id": {
+      "$oid": "2c453fe42bbef5f10e40906c"
+    },
+    "delegacion_id": {
+      "$oid": "bea3c2642ee2278b1986ef13"
+    },
+    "entrenador": "Entrenador 1",
+    "anio_fundacion": 1988
+  },
+  {
+    "_id": {
+      "$oid": "1318c2b67b02311cd0c5663a"
+    },
+    "nombre": "Equipo Fútbol 2",
+    "disciplina_id": {
+      "$oid": "3f8c4582711eef9e796dcd68"
+    },
+    "delegacion_id": {
+      "$oid": "c808f9b2b7aaaee7feef5ea4"
+    },
+    "entrenador": "Entrenador 2",
+    "anio_fundacion": 2009
+  },
+  {
+    "_id": {
+      "$oid": "6c8346eb5df62e980aebd69e"
+    },
+    "nombre": "Equipo Ciclismo 3",
+    "disciplina_id": {
+      "$oid": "0583f2bda763873b37cfb3e1"
+    },
+    "delegacion_id": {
+      "$oid": "87c40d90859357b8b812a185"
+    },
+    "entrenador": "Entrenador 3",
+    "anio_fundacion": 1982
+  },
+  {
+    "_id": {
+      "$oid": "a35acd6ce5cb2163d377d727"
+    },
+    "nombre": "Equipo Judo 4",
+    "disciplina_id": {
+      "$oid": "9ced9d491b8de8d391f7625d"
+    },
+    "delegacion_id": {
+      "$oid": "de99bb4f0f98891706898224"
+    },
+    "entrenador": "Entrenador 4",
+    "anio_fundacion": 1969
+  },
+  {
+    "_id": {
+      "$oid": "f63a207dd0188d0cec21b65c"
+    },
+    "nombre": "Equipo Natación 5",
+    "disciplina_id": {
+      "$oid": "3f36b3bf40b632fcbd28f232"
+    },
+    "delegacion_id": {
+      "$oid": "3e281ec111e0c9b703ec6baf"
+    },
+    "entrenador": "Entrenador 5",
+    "anio_fundacion": 1969
+  },
+  {
+    "_id": {
+      "$oid": "e772eefa143a7bb709b8d00c"
+    },
+    "nombre": "Equipo Esgrima 6",
+    "disciplina_id": {
+      "$oid": "724e9650a4d69ead1f47641f"
+    },
+    "delegacion_id": {
+      "$oid": "ea8e88490a02f485ccfd9f89"
+    },
+    "entrenador": "Entrenador 6",
+    "anio_fundacion": 1959
+  },
+  {
+    "_id": {
+      "$oid": "13be1396d8f63bf56a5c487d"
+    },
+    "nombre": "Equipo Gimnasia 7",
+    "disciplina_id": {
+      "$oid": "59f0fa1d50a63cd0db2a07b0"
+    },
+    "delegacion_id": {
+      "$oid": "541b4ea3e02ecc6cd4027497"
+    },
+    "entrenador": "Entrenador 7",
+    "anio_fundacion": 1977
+  },
+  {
+    "_id": {
+      "$oid": "b94fcd5ffc14836a03ef7137"
+    },
+    "nombre": "Equipo Baloncesto 8",
+    "disciplina_id": {
+      "$oid": "cfeeb2fbe28384c42577ed2c"
+    },
+    "delegacion_id": {
+      "$oid": "2b977b7ca1cc6ccfc760c433"
+    },
+    "entrenador": "Entrenador 8",
+    "anio_fundacion": 1999
+  },
+  {
+    "_id": {
+      "$oid": "e58bcbc3af078a8be39abf62"
+    },
+    "nombre": "Equipo Tenis 9",
+    "disciplina_id": {
+      "$oid": "7c43bec38ea7824bd1bf78e8"
+    },
+    "delegacion_id": {
+      "$oid": "5349cf84e2d5d20d76fc39b8"
+    },
+    "entrenador": "Entrenador 9",
+    "anio_fundacion": 2000
+  },
+  {
+    "_id": {
+      "$oid": "fd748b6275ea2f6b49fe1114"
+    },
+    "nombre": "Equipo Vela 10",
+    "disciplina_id": {
+      "$oid": "9ea76abf95d9ee8df3ade813"
+    },
+    "delegacion_id": {
+      "$oid": "24bd73990312d4c1fd4fbdc1"
+    },
+    "entrenador": "Entrenador 10",
+    "anio_fundacion": 2010
+  },
+  {
+    "_id": {
+      "$oid": "579c02a8aff5aff147da871a"
+    },
+    "nombre": "Equipo Remo 11",
+    "disciplina_id": {
+      "$oid": "9b89a29d61d54385f9059840"
+    },
+    "delegacion_id": {
+      "$oid": "c0c1774f87d6d932c7038e02"
+    },
+    "entrenador": "Entrenador 11",
+    "anio_fundacion": 1952
+  },
+  {
+    "_id": {
+      "$oid": "2e207d8aba9566ede2e5cd5b"
+    },
+    "nombre": "Equipo Taekwondo 12",
+    "disciplina_id": {
+      "$oid": "e5678e56aaab63a98c361bca"
+    },
+    "delegacion_id": {
+      "$oid": "9369024450a76681002f4532"
+    },
+    "entrenador": "Entrenador 12",
+    "anio_fundacion": 1956
+  },
+  {
+    "_id": {
+      "$oid": "f3cdb1e0374b52693adbc20f"
+    },
+    "nombre": "Equipo Boxeo 13",
+    "disciplina_id": {
+      "$oid": "df0d1ff529153f3ca0a34af2"
+    },
+    "delegacion_id": {
+      "$oid": "066ef9e07a04b9f5a33434d1"
+    },
+    "entrenador": "Entrenador 13",
+    "anio_fundacion": 1997
+  },
+  {
+    "_id": {
+      "$oid": "bf2a4b5aaf2ac6772c8f7fcf"
+    },
+    "nombre": "Equipo Halterofilia 14",
+    "disciplina_id": {
+      "$oid": "3711f0a0d312f8fb5620f910"
+    },
+    "delegacion_id": {
+      "$oid": "ed2e5a463d2ea3acd6b1c0f4"
+    },
+    "entrenador": "Entrenador 14",
+    "anio_fundacion": 2015
+  },
+  {
+    "_id": {
+      "$oid": "0e8067341d770d4d7c62be10"
+    },
+    "nombre": "Equipo Voleibol 15",
+    "disciplina_id": {
+      "$oid": "7d73d5b993fee3f55849a026"
+    },
+    "delegacion_id": {
+      "$oid": "d3fb21f2427b7bfed719dfc0"
+    },
+    "entrenador": "Entrenador 15",
+    "anio_fundacion": 1998
+  }
+]

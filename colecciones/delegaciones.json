@@ -1,0 +1,242 @@
+[
+  {
+    "_id": {
+      "$oid": "bea3c2642ee2278b1986ef13"
+    },
+    "pais_id": {
+      "$oid": "f1dd9a02dd8613488738a947"
+    },
+    "disciplina_id": {
+      "$oid": "2c453fe42bbef5f10e40906c"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-01T00:00:00Z"
+    },
+    "numero_atletas": 13,
+    "jefe_delegacion": "Jefe 1"
+  },
+  {
+    "_id": {
+      "$oid": "c808f9b2b7aaaee7feef5ea4"
+    },
+    "pais_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "disciplina_id": {
+      "$oid": "3f8c4582711eef9e796dcd68"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-02T00:00:00Z"
+    },
+    "numero_atletas": 13,
+    "jefe_delegacion": "Jefe 2"
+  },
+  {
+    "_id": {
+      "$oid": "87c40d90859357b8b812a185"
+    },
+    "pais_id": {
+      "$oid": "afd1d724f9c0d61dfc2207c7"
+    },
+    "disciplina_id": {
+      "$oid": "0583f2bda763873b37cfb3e1"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-03T00:00:00Z"
+    },
+    "numero_atletas": 4,
+    "jefe_delegacion": "Jefe 3"
+  },
+  {
+    "_id": {
+      "$oid": "de99bb4f0f98891706898224"
+    },
+    "pais_id": {
+      "$oid": "7fae9e7189070625f4834299"
+    },
+    "disciplina_id": {
+      "$oid": "9ced9d491b8de8d391f7625d"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-04T00:00:00Z"
+    },
+    "numero_atletas": 14,
+    "jefe_delegacion": "Jefe 4"
+  },
+  {
+    "_id": {
+      "$oid": "3e281ec111e0c9b703ec6baf"
+    },
+    "pais_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "disciplina_id": {
+      "$oid": "3f36b3bf40b632fcbd28f232"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-05T00:00:00Z"
+    },
+    "numero_atletas": 6,
+    "jefe_delegacion": "Jefe 5"
+  },
+  {
+    "_id": {
+      "$oid": "ea8e88490a02f485ccfd9f89"
+    },
+    "pais_id": {
+      "$oid": "a1a4b542bdc524f01c744d03"
+    },
+    "disciplina_id": {
+      "$oid": "724e9650a4d69ead1f47641f"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-06T00:00:00Z"
+    },
+    "numero_atletas": 12,
+    "jefe_delegacion": "Jefe 6"
+  },
+  {
+    "_id": {
+      "$oid": "541b4ea3e02ecc6cd4027497"
+    },
+    "pais_id": {
+      "$oid": "990e7291084598851ab4fedb"
+    },
+    "disciplina_id": {
+      "$oid": "59f0fa1d50a63cd0db2a07b0"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-07T00:00:00Z"
+    },
+    "numero_atletas": 21,
+    "jefe_delegacion": "Jefe 7"
+  },
+  {
+    "_id": {
+      "$oid": "2b977b7ca1cc6ccfc760c433"
+    },
+    "pais_id": {
+      "$oid": "c62b85952d4a936e0b248806"
+    },
+    "disciplina_id": {
+      "$oid": "cfeeb2fbe28384c42577ed2c"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-08T00:00:00Z"
+    },
+    "numero_atletas": 25,
+    "jefe_delegacion": "Jefe 8"
+  },
+  {
+    "_id": {
+      "$oid": "5349cf84e2d5d20d76fc39b8"
+    },
+    "pais_id": {
+      "$oid": "3422f12024ef4b6b03c43a1f"
+    },
+    "disciplina_id": {
+      "$oid": "7c43bec38ea7824bd1bf78e8"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-09T00:00:00Z"
+    },
+    "numero_atletas": 6,
+    "jefe_delegacion": "Jefe 9"
+  },
+  {
+    "_id": {
+      "$oid": "24bd73990312d4c1fd4fbdc1"
+    },
+    "pais_id": {
+      "$oid": "02ca9d99aa1b47267cf13f30"
+    },
+    "disciplina_id": {
+      "$oid": "9ea76abf95d9ee8df3ade813"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-10T00:00:00Z"
+    },
+    "numero_atletas": 14,
+    "jefe_delegacion": "Jefe 10"
+  },
+  {
+    "_id": {
+      "$oid": "c0c1774f87d6d932c7038e02"
+    },
+    "pais_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "disciplina_id": {
+      "$oid": "9b89a29d61d54385f9059840"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-11T00:00:00Z"
+    },
+    "numero_atletas": 23,
+    "jefe_delegacion": "Jefe 11"
+  },
+  {
+    "_id": {
+      "$oid": "9369024450a76681002f4532"
+    },
+    "pais_id": {
+      "$oid": "2df23719d2369e62bc140c90"
+    },
+    "disciplina_id": {
+      "$oid": "e5678e56aaab63a98c361bca"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-12T00:00:00Z"
+    },
+    "numero_atletas": 16,
+    "jefe_delegacion": "Jefe 12"
+  },
+  {
+    "_id": {
+      "$oid": "066ef9e07a04b9f5a33434d1"
+    },
+    "pais_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "disciplina_id": {
+      "$oid": "df0d1ff529153f3ca0a34af2"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-13T00:00:00Z"
+    },
+    "numero_atletas": 9,
+    "jefe_delegacion": "Jefe 13"
+  },
+  {
+    "_id": {
+      "$oid": "ed2e5a463d2ea3acd6b1c0f4"
+    },
+    "pais_id": {
+      "$oid": "474fa36f04c23c7de799896d"
+    },
+    "disciplina_id": {
+      "$oid": "3711f0a0d312f8fb5620f910"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-14T00:00:00Z"
+    },
+    "numero_atletas": 3,
+    "jefe_delegacion": "Jefe 14"
+  },
+  {
+    "_id": {
+      "$oid": "d3fb21f2427b7bfed719dfc0"
+    },
+    "pais_id": {
+      "$oid": "c73736613dfe8b6adc18412c"
+    },
+    "disciplina_id": {
+      "$oid": "7d73d5b993fee3f55849a026"
+    },
+    "fecha_inscripcion": {
+      "$date": "2025-07-15T00:00:00Z"
+    },
+    "numero_atletas": 6,
+    "jefe_delegacion": "Jefe 15"
+  }
+]

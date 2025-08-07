@@ -1,0 +1,137 @@
+[
+  {
+    "_id": {
+      "$oid": "f1dd9a02dd8613488738a947"
+    },
+    "nombre": "Colombia",
+    "codigo_iso": "COL",
+    "continente": "América",
+    "poblacion": 51500000
+  },
+  {
+    "_id": {
+      "$oid": "98daf9b311e792895a6316e4"
+    },
+    "nombre": "Argentina",
+    "codigo_iso": "ARG",
+    "continente": "América",
+    "poblacion": 45300000
+  },
+  {
+    "_id": {
+      "$oid": "afd1d724f9c0d61dfc2207c7"
+    },
+    "nombre": "Brasil",
+    "codigo_iso": "BRA",
+    "continente": "América",
+    "poblacion": 214000000
+  },
+  {
+    "_id": {
+      "$oid": "7fae9e7189070625f4834299"
+    },
+    "nombre": "España",
+    "codigo_iso": "ESP",
+    "continente": "Europa",
+    "poblacion": 47300000
+  },
+  {
+    "_id": {
+      "$oid": "baa9bbbd974c23b643c2e486"
+    },
+    "nombre": "Francia",
+    "codigo_iso": "FRA",
+    "continente": "Europa",
+    "poblacion": 67000000
+  },
+  {
+    "_id": {
+      "$oid": "a1a4b542bdc524f01c744d03"
+    },
+    "nombre": "Estados Unidos",
+    "codigo_iso": "USA",
+    "continente": "América",
+    "poblacion": 331000000
+  },
+  {
+    "_id": {
+      "$oid": "990e7291084598851ab4fedb"
+    },
+    "nombre": "Canadá",
+    "codigo_iso": "CAN",
+    "continente": "América",
+    "poblacion": 38000000
+  },
+  {
+    "_id": {
+      "$oid": "c62b85952d4a936e0b248806"
+    },
+    "nombre": "Japón",
+    "codigo_iso": "JPN",
+    "continente": "Asia",
+    "poblacion": 125800000
+  },
+  {
+    "_id": {
+      "$oid": "3422f12024ef4b6b03c43a1f"
+    },
+    "nombre": "Reino Unido",
+    "codigo_iso": "GBR",
+    "continente": "Europa",
+    "poblacion": 67200000
+  },
+  {
+    "_id": {
+      "$oid": "02ca9d99aa1b47267cf13f30"
+    },
+    "nombre": "Alemania",
+    "codigo_iso": "DEU",
+    "continente": "Europa",
+    "poblacion": 83100000
+  },
+  {
+    "_id": {
+      "$oid": "b2c00e22fd529807046a2a95"
+    },
+    "nombre": "Italia",
+    "codigo_iso": "ITA",
+    "continente": "Europa",
+    "poblacion": 60300000
+  },
+  {
+    "_id": {
+      "$oid": "2df23719d2369e62bc140c90"
+    },
+    "nombre": "México",
+    "codigo_iso": "MEX",
+    "continente": "América",
+    "poblacion": 128900000
+  },
+  {
+    "_id": {
+      "$oid": "28820ff5e66c0153599d4b87"
+    },
+    "nombre": "Sudáfrica",
+    "codigo_iso": "ZAF",
+    "continente": "África",
+    "poblacion": 59300000
+  },
+  {
+    "_id": {
+      "$oid": "474fa36f04c23c7de799896d"
+    },
+    "nombre": "Australia",
+    "codigo_iso": "AUS",
+    "continente": "Oceanía",
+    "poblacion": 25600000
+  },
+  {
+    "_id": {
+      "$oid": "c73736613dfe8b6adc18412c"
+    },
+    "nombre": "China",
+    "codigo_iso": "CHN",
+    "continente": "Asia",
+    "poblacion": 1402000000
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {
+      "$oid": "2c453fe42bbef5f10e40906c"
+    },
+    "nombre": "Atletismo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Atletismo"
+  },
+  {
+    "_id": {
+      "$oid": "3f8c4582711eef9e796dcd68"
+    },
+    "nombre": "Fútbol",
+    "tipo": "Equipo",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Fútbol"
+  },
+  {
+    "_id": {
+      "$oid": "0583f2bda763873b37cfb3e1"
+    },
+    "nombre": "Ciclismo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Ciclismo"
+  },
+  {
+    "_id": {
+      "$oid": "9ced9d491b8de8d391f7625d"
+    },
+    "nombre": "Judo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Judo"
+  },
+  {
+    "_id": {
+      "$oid": "3f36b3bf40b632fcbd28f232"
+    },
+    "nombre": "Natación",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Natación"
+  },
+  {
+    "_id": {
+      "$oid": "724e9650a4d69ead1f47641f"
+    },
+    "nombre": "Esgrima",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Esgrima"
+  },
+  {
+    "_id": {
+      "$oid": "59f0fa1d50a63cd0db2a07b0"
+    },
+    "nombre": "Gimnasia",
+    "tipo": "Equipo",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Gimnasia"
+  },
+  {
+    "_id": {
+      "$oid": "cfeeb2fbe28384c42577ed2c"
+    },
+    "nombre": "Baloncesto",
+    "tipo": "Equipo",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Baloncesto"
+  },
+  {
+    "_id": {
+      "$oid": "7c43bec38ea7824bd1bf78e8"
+    },
+    "nombre": "Tenis",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Tenis"
+  },
+  {
+    "_id": {
+      "$oid": "9ea76abf95d9ee8df3ade813"
+    },
+    "nombre": "Vela",
+    "tipo": "Equipo",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Vela"
+  },
+  {
+    "_id": {
+      "$oid": "9b89a29d61d54385f9059840"
+    },
+    "nombre": "Remo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Remo"
+  },
+  {
+    "_id": {
+      "$oid": "e5678e56aaab63a98c361bca"
+    },
+    "nombre": "Taekwondo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Taekwondo"
+  },
+  {
+    "_id": {
+      "$oid": "df0d1ff529153f3ca0a34af2"
+    },
+    "nombre": "Boxeo",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Boxeo"
+  },
+  {
+    "_id": {
+      "$oid": "3711f0a0d312f8fb5620f910"
+    },
+    "nombre": "Halterofilia",
+    "tipo": "Individual",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Halterofilia"
+  },
+  {
+    "_id": {
+      "$oid": "7d73d5b993fee3f55849a026"
+    },
+    "nombre": "Voleibol",
+    "tipo": "Equipo",
+    "categoria": [
+      "Masculino",
+      "Femenino",
+      "Mixto"
+    ],
+    "descripcion": "Disciplina deportiva: Voleibol"
+  }
+]
